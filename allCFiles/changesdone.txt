@@ -1,0 +1,16 @@
+//Dashboard 
+  
+ *Added a enum to choose the choices and passed enum in a function which return the value of enum
+
+  consult line no: 
+  1. 7-13 (Enum declared)
+  2. 19-35 (Funtion to change entered string to a enum and returning it's corresponding values)
+  3. Line on: 223 (Accepeted a enum value after passing the funcntion as a choice and returning it's value)
+  4. 225-264 (Used a switch case to deal with the enums and choices)
+
+
+ *Added a new string function memset to delete the string stored in a variable
+
+	memset(pointer to the first memory address if the array , 0 , sizeof(char/int/float));
+
+		//where 0 indicates storing 0 instead of all the strings previosuly given
